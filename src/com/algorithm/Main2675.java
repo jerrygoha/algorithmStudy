@@ -17,14 +17,16 @@ class solve2675{
         int testCase = Integer.parseInt(br.readLine());
         int repeat;
         String chr;
+        String chrText;
 
 
         for(int i = 0; i<testCase; i++){
             chr = br.readLine();
             st = new StringTokenizer(chr, " ");
             repeat = Integer.parseInt(st.nextToken());
+            chrText = st.nextToken();
 
-            texting(st.nextToken(), repeat);
+            texting(chrText, repeat);
 
         }
 
@@ -45,7 +47,8 @@ class solve2675{
 
             }
         }
+        bw.write("\n");
         bw.flush();
-        bw.close();
+
     }
 }
