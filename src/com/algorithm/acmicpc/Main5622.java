@@ -1,0 +1,65 @@
+package com.algorithm.acmicpc;
+
+import java.io.*;
+
+public class Main5622 {
+    public static void main(String[] args) throws IOException {
+        new solve5622().problem();
+    }
+}
+class solve5622{
+    public void problem() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+
+        int time = 0;
+        String input = br.readLine();
+        char inputChr;
+
+        for(int i = 0; i<input.length(); i++){
+            inputChr = input.charAt(i);
+            switch (Character.toString(inputChr)){
+                case "A" :
+                case "B" :
+                case "C" :
+                    time += 3; break;
+                case "D" :
+                case "E" :
+                case "F" :
+                    time += 4; break;
+                case "G" :
+                case "H" :
+                case "I" :
+                    time += 5; break;
+                case "J" :
+                case "K" :
+                case "L" :
+                    time += 6; break;
+                case "M" :
+                case "N" :
+                case "O" :
+                    time += 7; break;
+                case "P" :
+                case "Q" :
+                case "R" :
+                case "S" :
+                    time += 8; break;
+                case "T" :
+                case "U" :
+                case "V" :
+                    time += 9; break;
+                case "W" :
+                case "X" :
+                case "Y" :
+                case "Z" :
+                    time += 10; break;
+
+            }
+        }
+
+        bw.write(""+time);
+        bw.flush();
+        bw.close();
+    }
+}

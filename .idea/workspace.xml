@@ -1,9 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week1/FibonacciIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week1/FibonacciRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1065.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/Main1065.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main10818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main10871.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main10950.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main10951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main10952.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main11021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main11022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main1110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main1546.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main15552.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main15596.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main2577.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main2884.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main3052.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main4344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main4673.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main8958.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/p15552.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve10818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve10871.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve10951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve10952.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve11022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve1110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve1546.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve15596.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve2577.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve3052.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve4344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve4673.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/solve8958.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1065.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1065.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10809.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main10818.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10818.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main10871.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10871.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10950.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main10951.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10951.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10952.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main11021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main11021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main11022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main11022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1157.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main11654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1546.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main15552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main15552.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main15596.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main15596.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main1712.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2562.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2577.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2577.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2941.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main3052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main4344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main4344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main4673.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main5622.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main8958.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main8958.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +119,24 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main1546">
-    <configuration name="Main1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Main1546" />
+  <component name="RunManager" selected="Application.FibonacciIteration">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.chungorithm.week1.BinarySearch" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="PATTERN" value="com.algorithm.chungorithm.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Main3052" />
+    <configuration name="FibonacciIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.chungorithm.week1.FibonacciIteration" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="PATTERN" value="com.algorithm.chungorithm.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.chungorithm.week1.FibonacciRecursion" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.chungorithm.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +171,11 @@
       </method>
     </configuration>
     <configuration name="Main4344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Main4344" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.acmicpc.Main4344" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="PATTERN" value="com.algorithm.acmicpc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,24 +184,11 @@
       </method>
     </configuration>
     <configuration name="Main4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Main4673" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.acmicpc.Main4673" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Main8958" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="PATTERN" value="com.algorithm.acmicpc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +197,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main1546" />
-      <item itemvalue="Application.Main3052" />
       <item itemvalue="Application.Main4344" />
       <item itemvalue="Application.Main4673" />
-      <item itemvalue="Application.Main8958" />
+      <item itemvalue="Application.Week1BinarySearch" />
+      <item itemvalue="Application.FibonacciRecursion" />
+      <item itemvalue="Application.FibonacciIteration" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciIteration" />
+        <item itemvalue="Application.FibonacciRecursion" />
+        <item itemvalue="Application.Week1BinarySearch" />
         <item itemvalue="Application.Main4673" />
         <item itemvalue="Application.Main4344" />
-        <item itemvalue="Application.Main8958" />
-        <item itemvalue="Application.Main1546" />
-        <item itemvalue="Application.Main3052" />
       </list>
     </recent_temporary>
   </component>
@@ -132,65 +223,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581346410884</updated>
+      <workItem from="1599491159065" duration="4532000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581352410392">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="918" height="270" key="GridCell.Tab.0.bottom" timestamp="1599495325362">
+      <screen x="-125" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581352410392" />
-    <state x="723" y="237" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581862768389">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="918" height="270" key="GridCell.Tab.0.bottom/0.23.1680.1027/-125.-1057.1920.1057@-125.-1057.1920.1057" timestamp="1599495325362" />
+    <state width="918" height="270" key="GridCell.Tab.0.center" timestamp="1599495325361">
+      <screen x="-125" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="723" y="237" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581862768389" />
-    <state x="709" y="409" width="265" height="218" key="Github.ShareDialog" timestamp="1581346757004">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="918" height="270" key="GridCell.Tab.0.center/0.23.1680.1027/-125.-1057.1920.1057@-125.-1057.1920.1057" timestamp="1599495325361" />
+    <state width="918" height="270" key="GridCell.Tab.0.left" timestamp="1599495325360">
+      <screen x="-125" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="709" y="409" width="265" height="218" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581346757004" />
-    <state width="1619" height="245" key="GridCell.Tab.0.bottom" timestamp="1582064796453">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="918" height="270" key="GridCell.Tab.0.left/0.23.1680.1027/-125.-1057.1920.1057@-125.-1057.1920.1057" timestamp="1599495325360" />
+    <state width="918" height="270" key="GridCell.Tab.0.right" timestamp="1599495325361">
+      <screen x="-125" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1619" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582064796453" />
-    <state width="1619" height="245" key="GridCell.Tab.0.center" timestamp="1582064796453">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1619" height="245" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582064796453" />
-    <state width="1619" height="245" key="GridCell.Tab.0.left" timestamp="1582064796452">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1619" height="245" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582064796452" />
-    <state width="1619" height="245" key="GridCell.Tab.0.right" timestamp="1582064796453">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1619" height="245" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582064796453" />
-    <state width="1876" height="325" key="GridCell.Tab.1.bottom" timestamp="1581453549068">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581453549068" />
-    <state width="1876" height="325" key="GridCell.Tab.1.center" timestamp="1581453549068">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="325" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581453549068" />
-    <state width="1876" height="325" key="GridCell.Tab.1.left" timestamp="1581453549068">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="325" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581453549068" />
-    <state width="1876" height="325" key="GridCell.Tab.1.right" timestamp="1581453549068">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581453549068" />
-    <state x="331" y="160" key="SettingsEditor" timestamp="1581503269759">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="331" y="160" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581503269759" />
-    <state x="499" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1582310870930">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="499" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582310870930" />
-    <state x="763" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581590258486">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="763" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581590258486" />
+    <state width="918" height="270" key="GridCell.Tab.0.right/0.23.1680.1027/-125.-1057.1920.1057@-125.-1057.1920.1057" timestamp="1599495325361" />
   </component>
 </project>
