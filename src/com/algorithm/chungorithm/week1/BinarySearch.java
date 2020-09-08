@@ -1,23 +1,31 @@
 package com.algorithm.chungorithm.week1;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class BinarySearch {
 
     static int binarySearch(int arr[], int x) {
-        int n = arr.length;
-        int key = x;
-        int[] array = arr;
-        int rt = 0;
-        for(int i = 0; i<n; i++){
-            if(array[i]==key){
-                rt = i;
-                break;
+        int arrSize = arr.length;
+        int upperBound = arrSize-1;
+        int lowerBound = 0;
+        int median;
+
+        while(true){
+            if(upperBound<lowerBound){
+                return -1;
             }
-            rt = -1;
+            median = (upperBound+lowerBound)/2;
+
+            if(arr[median]==x){
+                return median;
+            }else if(arr[median]>x){
+                upperBound = median-1;
+            }else{
+                lowerBound = median+1;
+            }
         }
 
-        return rt;
     }
 
     public static void main(String args[]) {
@@ -31,6 +39,7 @@ public class BinarySearch {
         for (int i = 0; i < n; i++) {
             data[i] = Integer.parseInt(s[i]);
         }
+        Arrays.sort(data);
         int result = binarySearch(data, key);
 
         System.out.println(result);
