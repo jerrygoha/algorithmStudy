@@ -1,4 +1,4 @@
-package com.algorithm.chungorithm.week1;
+package com.algorithm.chungorithm.week2;
 
 import java.util.Scanner;
 

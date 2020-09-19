@@ -1,10 +1,10 @@
-package com.algorithm.chungorithm.week1;
+package com.algorithm.chungorithm.week2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class FibonacciRecursion {
+public class FibonacciTest {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         long inputInt = Integer.parseInt(br.readLine());
@@ -24,8 +24,4 @@ public class FibonacciRecursion {
         }
 
     }
-
-
-
-
 }

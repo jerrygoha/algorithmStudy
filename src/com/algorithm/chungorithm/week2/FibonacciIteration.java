@@ -1,4 +1,4 @@
-package com.algorithm.chungorithm.week1;
+package com.algorithm.chungorithm.week2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,13 +17,16 @@ public class FibonacciIteration {
     }
 
     static long iterationFibo(long input){
-        long[] fibo = new long[(int) input+1];
-        fibo[0]=0;
-        fibo[1]=1;
-        for(int i = 2; i<=(int)input; i++){
-            fibo[i] = fibo[i-1] + fibo[i-2];
+        if(input<2){
+            return input;
         }
-        return fibo[(int) input];
+        long[] cache = new long[(int) input+1];
+        cache[0]=0;
+        cache[1]=1;
+        for(int i = 2; i<=(int)input; i++){
+            cache[i] = cache[i-1] + cache[i-2];
+        }
+        return cache[(int) input];
     }
 
 }
