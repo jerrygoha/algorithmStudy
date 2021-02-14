@@ -19,92 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="&quot;20210201&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10871.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main15552.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2439.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2741.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2884.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main9498.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="&quot;20210207&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1098.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10171.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10171.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1065.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1065.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10718.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10718.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10809.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10818.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10818.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10871.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10871.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10950.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10951.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10951.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10952.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main11021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main11021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main11022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main11022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main11654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1193.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1316.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1330.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1546.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main15552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main15552.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main15596.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main15596.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main1712.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1712.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2557.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2557.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2562.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2577.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2577.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2675.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2884.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2908.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2941.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main3052.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main4344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main4344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main4673.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main5622.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main8958.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main8958.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main9498.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week2/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week2/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week2/FibonacciIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week2/FibonacciIteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week2/FibonacciMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week2/FibonacciMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week2/FibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week2/FibonacciRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week2/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week2/FibonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week2/SequentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week2/SequentialSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/chungorithm/week3/SortMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/chungorithm/week3/SortMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/hash.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/temp_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/dir_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/dir_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/sysconfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_distutils/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1011.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,89 +80,7 @@
       <recent name="D:\Programming Project\algorithmStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Main1011">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="algorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="algorithmStudy" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="algorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Main1011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1011.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Main1098">
     <configuration name="Main10871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main15552" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Main1097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,12 +111,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithm/acmicpc/Main15552.py" />
+      <option name="SCRIPT_NAME" value="D:\Programming Project\algorithmStudy\src\com\algorithmStudy\codeup\Main1097.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main1098" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/codeup/Main1098.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,19 +192,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Main15552" />
       <item itemvalue="Python.Main2741" />
       <item itemvalue="Python.Main2439" />
       <item itemvalue="Python.Main10871" />
-      <item itemvalue="Python.Main1011" />
+      <item itemvalue="Python.Main1097" />
+      <item itemvalue="Python.Main1098" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Main1011" />
+        <item itemvalue="Python.Main1098" />
+        <item itemvalue="Python.Main1097" />
         <item itemvalue="Python.Main10871" />
         <item itemvalue="Python.Main2439" />
         <item itemvalue="Python.Main2741" />
-        <item itemvalue="Python.Main15552" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +236,11 @@
       <workItem from="1611990206221" duration="7000" />
       <workItem from="1612357474719" duration="3993000" />
       <workItem from="1612454604249" duration="5636000" />
-      <workItem from="1612460773046" duration="24690000" />
+      <workItem from="1612460773046" duration="25937000" />
+      <workItem from="1612758856913" duration="37974000" />
+      <workItem from="1612904978164" duration="7000" />
+      <workItem from="1613159495826" duration="2393000" />
+      <workItem from="1613293311050" duration="10999000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;20210201&quot;">
       <created>1612162472871</created>
@@ -386,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612162472871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;20210207&quot;">
+      <created>1612697973662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612697973662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,20 +276,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;20210201&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;20210201&quot;" />
+    <MESSAGE value="&quot;20210207&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;20210207&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithmStudy$Main9498.coverage" NAME="Main9498 Coverage Results" MODIFIED="1612162759571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
-    <SUITE FILE_PATH="coverage/algorithmStudy$Main2884.coverage" NAME="Main2884 Coverage Results" MODIFIED="1612163994579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
-    <SUITE FILE_PATH="coverage/algorithmStudy$Main1330.coverage" NAME="Main1330 Coverage Results" MODIFIED="1612162268733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main10718.coverage" NAME="Main10718 Coverage Results" MODIFIED="1611991084861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main10871.coverage" NAME="Main10871 Coverage Results" MODIFIED="1612171304867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
-    <SUITE FILE_PATH="coverage/algorithmStudy$Main15552.coverage" NAME="Main15552 Coverage Results" MODIFIED="1612168101545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
-    <SUITE FILE_PATH="coverage/algorithmStudy$Main1011.coverage" NAME="Main1011 Coverage Results" MODIFIED="1612689229458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
-    <SUITE FILE_PATH="coverage/algorithmStudy$Main2557.coverage" NAME="Main2557 Coverage Results" MODIFIED="1611990280919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main1011.coverage" NAME="Main1011 Coverage Results" MODIFIED="1613038832461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main10171.coverage" NAME="Main10171 Coverage Results" MODIFIED="1611992591625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2439.coverage" NAME="Main2439 Coverage Results" MODIFIED="1612170040384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$main.coverage" NAME="main Coverage Results" MODIFIED="1611988509190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main2884.coverage" NAME="Main2884 Coverage Results" MODIFIED="1612163994579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main1330.coverage" NAME="Main1330 Coverage Results" MODIFIED="1612162268733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main15552.coverage" NAME="Main15552 Coverage Results" MODIFIED="1612168101545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main2557.coverage" NAME="Main2557 Coverage Results" MODIFIED="1611990280919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2741.coverage" NAME="Main2741 Coverage Results" MODIFIED="1612168567662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main1098.coverage" NAME="Main1098 Coverage Results" MODIFIED="1613308097048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
   </component>
 </project>
