@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.02.14 boj">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10250.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2775.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2869.py" afterDir="false" />
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.02.15 boj">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2775.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2775.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +238,8 @@
       <workItem from="1612758856913" duration="37974000" />
       <workItem from="1612904978164" duration="7000" />
       <workItem from="1613159495826" duration="2393000" />
-      <workItem from="1613293311050" duration="27069000" />
+      <workItem from="1613293311050" duration="37084000" />
+      <workItem from="1613572913169" duration="2730000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;20210201&quot;">
       <created>1612162472871</created>
@@ -277,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613312675094</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2021.02.15 boj">
+      <created>1613329359884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613329359885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +306,8 @@
     <MESSAGE value="&quot;20210207&quot;" />
     <MESSAGE value="2021.02.14 codeup finish" />
     <MESSAGE value="2021.02.14 boj" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.02.14 boj" />
+    <MESSAGE value="2021.02.15 boj" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.02.15 boj" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithmStudy$Main9498.coverage" NAME="Main9498 Coverage Results" MODIFIED="1612162759571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />

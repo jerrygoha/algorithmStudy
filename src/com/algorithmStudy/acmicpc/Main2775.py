@@ -1,17 +1,13 @@
-#수정중
-t = int(input())
-resident = []
-def howmany(k, n):
+#재귀
+def cntPerson(k,n):
     if k==0:
-        j=0
-        for i in range(1, n+1):
-            j += i
-        return j
-    else:
-        return howmany(k-1, n)
+        return n
+    s=0
+    for i in range(i, n+1):
+        s += cntPerson(k-1, i)
+    return s
 
-for i in range(t):
-    k = int(input())
-    n = int(input())
-
-
+for i in range(int(input())):
+    k=int(input())
+    n=int(input())
+    print(cntPerson(k, n))
