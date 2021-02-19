@@ -1,13 +1,9 @@
-#재귀
-def cntPerson(k,n):
-    if k==0:
-        return n
-    s=0
-    for i in range(i, n+1):
-        s += cntPerson(k-1, i)
-    return s
-
+#반복문
 for i in range(int(input())):
-    k=int(input())
-    n=int(input())
-    print(cntPerson(k, n))
+    k = int(input())
+    n = int(input())
+    l = [i for i in range(1, n+1)]
+    for _ in range(k):
+        for j in range(1, n):
+            l[j] += l[j-1]
+    print(l[n-1])
