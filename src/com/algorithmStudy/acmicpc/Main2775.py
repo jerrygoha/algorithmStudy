@@ -1,9 +1,21 @@
-#반복문
+import math
 for i in range(int(input())):
-    k = int(input())
-    n = int(input())
-    l = [i for i in range(1, n+1)]
-    for _ in range(k):
-        for j in range(1, n):
-            l[j] += l[j-1]
-    print(l[n-1])
+    x, y = map(int, input().split())
+    dist = y-x
+    cnt = 0
+    num = math.floor(math.sqrt(dist))
+    num_twice = num**2
+    num_sqrt = math.sqrt(num_twice)
+
+    if dist == num_twice:
+        cnt = (num*2)-1
+    elif dist>num_twice and num_twice+num_sqrt>=dist:
+        cnt = num*2
+    elif dist>num_twice+num_sqrt:
+        cnt = (num*2)+1
+
+    print(cnt)
+
+
+
+
