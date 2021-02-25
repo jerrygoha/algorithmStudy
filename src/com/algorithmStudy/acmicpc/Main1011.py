@@ -14,6 +14,9 @@ for i in range(int(input())):
     elif dist>num_twice+num_sqrt:
         cnt = (num*2)+1
 
+    if dist<4:
+        cnt = dist
+
     print(cnt)
 
 
