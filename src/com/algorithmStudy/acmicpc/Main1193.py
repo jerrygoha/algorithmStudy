@@ -31,10 +31,9 @@ def solution(X):
             limit += 1
 
 def solutionSec(X):
-    #시간복잡도를 줄여봅시다..
     limitCount = 0 #몇번째줄인지
     sum = 0 #합
-    #몇번째줄부터 갈건지 체크
+    #몇번째부터 갈건지 체크
     while sum<X:
         limitCount += 1
         sum = limitCount * (limitCount+1) // 2 #시간복잡도 O(1)
