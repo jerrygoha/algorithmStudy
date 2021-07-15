@@ -1,8 +1,13 @@
 import math
 def solve(a, b):
     resultList = list(range(a, b+1))
-    tempList = list(range(2, b+1))
 
+    #1은 소수가 아니므로 있다면 제거하자.
+    if 1 in resultList:
+        resultList.remove(1)
+
+    #에라스토스테네스의 체 사용
+    #
     for i in range(2, math.ceil(math.sqrt(b))):
         for temp in resultList:
             if temp/i==1:
