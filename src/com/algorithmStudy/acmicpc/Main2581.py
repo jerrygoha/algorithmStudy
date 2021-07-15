@@ -7,7 +7,6 @@ def solve(a, b):
         resultList.remove(1)
 
     #에라스토스테네스의 체 사용
-    #
     for i in range(2, math.ceil(math.sqrt(b))):
         for temp in resultList:
             if temp/i==1:
@@ -15,6 +14,7 @@ def solve(a, b):
             elif temp%i==0:
                 resultList.remove(temp)
 
+    #범위 내에 소수가 없다면 -1 반환
     if not resultList:
         return -1
     else:
