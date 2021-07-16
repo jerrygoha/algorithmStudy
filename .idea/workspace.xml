@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.07.16 boj">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main11653.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main11653.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +247,7 @@
       <workItem from="1625241458262" duration="1219000" />
       <workItem from="1625577038357" duration="2000" />
       <workItem from="1625602542023" duration="594000" />
-      <workItem from="1626152196289" duration="32005000" />
+      <workItem from="1626152196289" duration="34189000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;20210201&quot;">
       <created>1612162472871</created>
@@ -376,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626421708384</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2021.07.16 boj">
+      <created>1626447064708</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1626447064708</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
