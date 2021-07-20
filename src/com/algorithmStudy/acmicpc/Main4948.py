@@ -29,10 +29,12 @@ if __name__ == "__main__":
         if n==0:
             break
         else:
+            #소수테이블에서 특정 범위 내 소수 개수 구하기.
             for i in range(n + 1, (2 * n) + 1):
                 if resultList[i] == True:
                     cnt += 1
             inputList.append(cnt)
 
+    # *(unpacking operator) 사용해서 unpacking한 데이터로 전달.
     print(*inputList, sep="\n")
 
