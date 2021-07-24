@@ -13,20 +13,20 @@ class GoldBah:
                 for delt in range(i*2, len(self.minorityList), i):
                     self.minorityList[delt] = False
 
-
-
     def solve(self, n):
         #소수 테이블 차례대로 훓으면서..?
         #짝수에서 첫번째 소수를 뺐을때의 결과가 소수여야한다!
         firstNum = n
+        #짝수 = leftNum + rightNum 으로 결과가 리턴된다고 가정.
         leftNum = 0
-        rightNum = 0
+        rightNum = 0 # == firstNum - leftNum
         for index, value in enumerate(self.minorityList):
             if value==False:
                 pass
             #소수 빼기
             elif value==True:
                 if index>(n//2):
+                    #leftNum은 주어진 수의 절반을 넘어갈 수 없다!
                     return "{} {}".format(leftNum, firstNum-leftNum)
                 rightNum = firstNum-index
                 if self.minorityList[rightNum]==False:
@@ -35,8 +35,6 @@ class GoldBah:
                 elif self.minorityList[rightNum]==True:
                     leftNum = index
                     pass
-
-
 
 if __name__ == "__main__" :
     a = GoldBah()
