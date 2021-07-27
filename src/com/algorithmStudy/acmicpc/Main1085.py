@@ -22,8 +22,6 @@ class Escape:
         #각 최소값 비교후 더 작은값 출력
         print(min(wMin, hMin))
 
-
-
 if __name__ == "__main__":
     a = Escape()
     x, y, w, h = map(int, input().split())
