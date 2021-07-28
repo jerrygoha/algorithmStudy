@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.07.28 boj">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10872.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <recent name="D:\Programming Project\algorithmStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Main1002">
+  <component name="RunManager" selected="Python.Main10872">
     <configuration name="Main1002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main1085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Main10872" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +115,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main10872.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +191,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Main1085" />
       <item itemvalue="Python.Main3009" />
       <item itemvalue="Python.Main4153" />
       <item itemvalue="Python.Main3053" />
       <item itemvalue="Python.Main1002" />
+      <item itemvalue="Python.Main10872" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main10872" />
         <item itemvalue="Python.Main1002" />
         <item itemvalue="Python.Main3053" />
         <item itemvalue="Python.Main4153" />
         <item itemvalue="Python.Main3009" />
-        <item itemvalue="Python.Main1085" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +251,7 @@
       <workItem from="1625602542023" duration="594000" />
       <workItem from="1626152196289" duration="43324000" />
       <workItem from="1626706901501" duration="67172000" />
-      <workItem from="1627398479936" duration="20582000" />
+      <workItem from="1627398479936" duration="22180000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;20210201&quot;">
       <created>1612162472871</created>
@@ -491,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627446129374</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2021.07.28 boj">
+      <created>1627462397427</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1627462397428</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,6 +581,7 @@
     <SUITE FILE_PATH="coverage/algorithmStudy$Main3009.coverage" NAME="Main3009 Coverage Results" MODIFIED="1627374479043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2557.coverage" NAME="Main2557 Coverage Results" MODIFIED="1611990280919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main11653.coverage" NAME="Main11653 Coverage Results" MODIFIED="1626446137547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main10872.coverage" NAME="Main10872 Coverage Results" MODIFIED="1627463146275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2741.coverage" NAME="Main2741 Coverage Results" MODIFIED="1612168567662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1085.coverage" NAME="Main1085 Coverage Results" MODIFIED="1627365596859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
   </component>
