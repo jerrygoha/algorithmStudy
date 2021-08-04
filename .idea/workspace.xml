@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.03 boj">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2447.py" afterDir="false" />
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.04 boj">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main11729.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -523,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627921191553</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2021.08.04 boj">
+      <created>1628045044550</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1628045044550</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,13 +570,8 @@
     <MESSAGE value="2021.07.28 boj" />
     <MESSAGE value="2021.07.29 boj" />
     <MESSAGE value="2021.08.03 boj" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.08.03 boj" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1627983355192">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="771" y="295" key="FileChooserDialogImpl/-1018.234.1018.1920/62.0.1858.1080/62.1080.1858.1080/1982.1.1858.1080@62.0.1858.1080" timestamp="1627983355192" />
+    <MESSAGE value="2021.08.04 boj" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.08.04 boj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
