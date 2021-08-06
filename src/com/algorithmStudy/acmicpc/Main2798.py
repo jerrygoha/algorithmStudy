@@ -1,3 +1,5 @@
+import itertools
+
 class Blackjack :
     def blackjack(self, n, m, cardList) :
 
@@ -6,12 +8,12 @@ class Blackjack :
         self.cardList.sort()
         self.cardList.reverse()
 
-        cardCount = 3   #카드 3장 고르는거 체크
-        sum = 0 #고른 카드의 합
-        
-        
+        condition = True
+
         #brute force start
-        while cardCount == 0 :
+        while condition :
+            
+
 
         
 
