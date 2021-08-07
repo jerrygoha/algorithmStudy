@@ -20,7 +20,7 @@ class Test :
 
     def combinations_with_replacement(self):
         # n=5, r=2
-        resultList = list(itertools.combinations_with_replacement(["1", "2", "3", "4", "5"], 2))
+        resultList = list(itertools.combinations_with_replacement([1, 2, 3, 4, 5], 2))
         print("경우의 수 : {}개".format(len(resultList)))
         print(*resultList, sep="\n")
 

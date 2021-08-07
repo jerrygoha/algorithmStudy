@@ -3,22 +3,21 @@ import itertools
 class Blackjack :
     def blackjack(self, n, m, cardList) :
 
-        self.cardList = cardList
-        #카드 순서대로 정렬 후, 연산을 위해 뒤집음
-        self.cardList.sort()
-        self.cardList.reverse()
+        #m에 최대한 가까운 카드 3장의 합
+        max = 0
 
-        condition = True
+        #조합 사용하여 모든 경우 구하고 그중 조건 만족하는 제일 큰 경우
+        resultList = list(itertools.permutations(cardList, 3))
 
-        #brute force start
-        while condition :
-            
+        #각 경우의 수(튜플)의 합계 브루트포스로 구하면서 max값 갱신
+        for tuple in resultList :
+            newTuple = list(tuple)
+            if sum(newTuple)>max and sum(newTuple)<=m :
+                max = sum(newTuple)
+            else:
+                pass
+        print(max)
 
-
-        
-
-
-        return 0
 
 if __name__ == "__main__" :
     case1 = Blackjack()
