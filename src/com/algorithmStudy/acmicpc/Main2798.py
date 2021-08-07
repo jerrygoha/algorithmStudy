@@ -9,7 +9,7 @@ class Blackjack :
         #조합 사용하여 모든 경우 구하고 그중 조건 만족하는 제일 큰 경우
         resultList = list(itertools.permutations(cardList, 3))
 
-        #각 경우의 수(튜플)의 합계 브루트포스로 구하면서 max값 갱신
+        #각 경우의 수(튜플)의 합계를 구하면서 max값 갱신
         for tuple in resultList :
             newTuple = list(tuple)
             if sum(newTuple)>max and sum(newTuple)<=m :
