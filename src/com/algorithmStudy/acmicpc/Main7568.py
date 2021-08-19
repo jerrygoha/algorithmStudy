@@ -2,9 +2,14 @@ class Dongchi :
     def solution(self, inputList):
         #각 사람마다 랭킹 저장하는 리스트
         rankList = []
+        for criteria in inputList :
+            bigger = 1
+            for comparative in inputList :
+                if criteria[0]<comparative[0] and criteria[1]<comparative[1]:
+                    bigger+=1
+            rankList.append(bigger)
 
-
-        return None
+        print(*rankList, sep=" ")
 
 
 if __name__ == "__main__" :
