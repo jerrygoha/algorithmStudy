@@ -1,8 +1,8 @@
 import itertools
 class Test :
     def permutation(self):
-        # n=5, r=2
-        resultList = list(set(list(itertools.permutations(["1", "1", "1", "2"], 4))))
+        # n=3, r=2
+        resultList = list(set(list(itertools.permutations(["a", "b", "c"], 2))))
         print("경우의 수 : {}개".format(len(resultList)))
         print(*resultList, sep="\n")
 
@@ -13,8 +13,8 @@ class Test :
         print(*resultList, sep="\n")
 
     def combinations(self):
-        # n=5, r=2
-        resultList = list(itertools.combinations(["1", "1", "1", "2"], 4))
+        # n=3, r=2
+        resultList = list(itertools.combinations(["a", "b", "c"], 2))
         print("경우의 수 : {}개".format(len(resultList)))
         print(*resultList, sep="\n")
 

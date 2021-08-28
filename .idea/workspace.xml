@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.17 boj">
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.20 boj">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1018.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main7568.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main7568.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestItertools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestItertools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +83,8 @@
       <recent name="D:\Programming Project\algorithmStudy\src\com\algorithmStudy\programmers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Main7568">
-    <configuration name="Main2231" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Main1018">
+    <configuration name="Main1018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2231.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTS3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestItertools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestTS3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestItertools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,19 +195,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Main2231" />
-      <item itemvalue="Python.TestTS3" />
       <item itemvalue="Python.TestTS5" />
       <item itemvalue="Python.TestTS6" />
       <item itemvalue="Python.Main7568" />
+      <item itemvalue="Python.TestItertools" />
+      <item itemvalue="Python.Main1018" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main1018" />
+        <item itemvalue="Python.TestItertools" />
         <item itemvalue="Python.Main7568" />
         <item itemvalue="Python.TestTS5" />
         <item itemvalue="Python.TestTS6" />
-        <item itemvalue="Python.TestTS3" />
-        <item itemvalue="Python.Main2231" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +261,8 @@
       <workItem from="1627983304020" duration="156000" />
       <workItem from="1627983494719" duration="105000" />
       <workItem from="1628674635807" duration="17734000" />
-      <workItem from="1629126666738" duration="8382000" />
+      <workItem from="1629126666738" duration="20502000" />
+      <workItem from="1629830337757" duration="12368000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;20210201&quot;">
       <created>1612162472871</created>
@@ -598,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629131906252</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2021.08.20 boj">
+      <created>1629392492147</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1629392492147</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +626,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.02.14 codeup finish" />
     <MESSAGE value="2021.02.14 boj" />
     <MESSAGE value="2021.02.15 boj" />
     <MESSAGE value="2021.02.19 boj" />
@@ -642,7 +650,8 @@
     <MESSAGE value="2021.08.12 boj" />
     <MESSAGE value="2021.08.14 programmers" />
     <MESSAGE value="2021.08.17 boj" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.08.17 boj" />
+    <MESSAGE value="2021.08.20 boj" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.08.20 boj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -663,6 +672,7 @@
     <SUITE FILE_PATH="coverage/algorithmStudy$Main3053.coverage" NAME="Main3053 Coverage Results" MODIFIED="1627460091898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$TestLP3.coverage" NAME="TestLP3 Coverage Results" MODIFIED="1628453919647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2581.coverage" NAME="Main2581 Coverage Results" MODIFIED="1626361213272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main1018.coverage" NAME="Main1018 Coverage Results" MODIFIED="1630135781197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2439.coverage" NAME="Main2439 Coverage Results" MODIFIED="1612170040384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1712.coverage" NAME="Main1712 Coverage Results" MODIFIED="1627154974316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main10870.coverage" NAME="Main10870 Coverage Results" MODIFIED="1627921164211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
@@ -686,7 +696,7 @@
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2775.coverage" NAME="Main1011 Coverage Results" MODIFIED="1614238588954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1193.coverage" NAME="Main1193 Coverage Results" MODIFIED="1626171535494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1002.coverage" NAME="Main1002 Coverage Results" MODIFIED="1627460105973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
-    <SUITE FILE_PATH="coverage/algorithmStudy$Main7568.coverage" NAME="Main7568 Coverage Results" MODIFIED="1629129567010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$Main7568.coverage" NAME="Main7568 Coverage Results" MODIFIED="1629392450453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1011.coverage" NAME="Main1011 Coverage Results" MODIFIED="1613038832461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/codeup" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main10171.coverage" NAME="Main10171 Coverage Results" MODIFIED="1611992591625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main9020.coverage" NAME="Main9020 Coverage Results" MODIFIED="1627028444697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
@@ -694,6 +704,7 @@
     <SUITE FILE_PATH="coverage/algorithmStudy$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1626163454691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
     <SUITE FILE_PATH="coverage/algorithmStudy$MainEliceTest.coverage" NAME="MainEliceTest Coverage Results" MODIFIED="1614267991577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main3009.coverage" NAME="Main3009 Coverage Results" MODIFIED="1627374479043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$TestItertools.coverage" NAME="TestItertools Coverage Results" MODIFIED="1629393926709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$TestLP2.coverage" NAME="TestLP2 Coverage Results" MODIFIED="1628449868266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$TestTS5.coverage" NAME="TestTS5 Coverage Results" MODIFIED="1628926703731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2557.coverage" NAME="Main2557 Coverage Results" MODIFIED="1611990280919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithm/acmicpc" />
