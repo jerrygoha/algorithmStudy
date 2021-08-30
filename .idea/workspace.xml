@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.20 boj">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1018.py" afterDir="false" />
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.28 boj">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestItertools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestItertools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,14 +260,7 @@
       <workItem from="1627983494719" duration="105000" />
       <workItem from="1628674635807" duration="17734000" />
       <workItem from="1629126666738" duration="20502000" />
-      <workItem from="1629830337757" duration="12368000" />
-    </task>
-    <task id="LOCAL-00001" summary="&quot;20210201&quot;">
-      <created>1612162472871</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1612162472871</updated>
+      <workItem from="1629830337757" duration="14693000" />
     </task>
     <task id="LOCAL-00002" summary="&quot;20210207&quot;">
       <created>1612697973662</created>
@@ -607,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629392492147</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="2021.08.28 boj">
+      <created>1630136231669</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1630136231670</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +624,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.02.14 boj" />
     <MESSAGE value="2021.02.15 boj" />
     <MESSAGE value="2021.02.19 boj" />
     <MESSAGE value="2021.02.24 boj" />
@@ -651,7 +648,8 @@
     <MESSAGE value="2021.08.14 programmers" />
     <MESSAGE value="2021.08.17 boj" />
     <MESSAGE value="2021.08.20 boj" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.08.20 boj" />
+    <MESSAGE value="2021.08.28 boj" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.08.28 boj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
