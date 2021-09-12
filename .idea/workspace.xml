@@ -19,17 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.31 boj">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO7.py" afterDir="false" />
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.08.31 KKOTest">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestLP2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestLP2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,73 +88,7 @@
       <recent name="D:\Programming Project\algorithmStudy\src\com\algorithmStudy\programmers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TestKKO4">
-    <configuration name="TestKKO1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestKKO2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestKKO3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.TestNX5">
     <configuration name="TestKKO4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,22 +108,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestKKO6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLP2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestKKO6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestLP2.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNX2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNX3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNX5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestNX5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -221,19 +207,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TestKKO1" />
-      <item itemvalue="Python.TestKKO2" />
-      <item itemvalue="Python.TestKKO3" />
-      <item itemvalue="Python.TestKKO6" />
       <item itemvalue="Python.TestKKO4" />
+      <item itemvalue="Python.TestNX2" />
+      <item itemvalue="Python.TestLP2" />
+      <item itemvalue="Python.TestNX3" />
+      <item itemvalue="Python.TestNX5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TestNX5" />
+        <item itemvalue="Python.TestNX3" />
+        <item itemvalue="Python.TestLP2" />
+        <item itemvalue="Python.TestNX2" />
         <item itemvalue="Python.TestKKO4" />
-        <item itemvalue="Python.TestKKO6" />
-        <item itemvalue="Python.TestKKO3" />
-        <item itemvalue="Python.TestKKO2" />
-        <item itemvalue="Python.TestKKO1" />
       </list>
     </recent_temporary>
   </component>
@@ -288,14 +274,7 @@
       <workItem from="1627983494719" duration="105000" />
       <workItem from="1628674635807" duration="17734000" />
       <workItem from="1629126666738" duration="20502000" />
-      <workItem from="1629830337757" duration="41735000" />
-    </task>
-    <task id="LOCAL-00005" summary="2021.02.14 boj">
-      <created>1613312675094</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1613312675094</updated>
+      <workItem from="1629830337757" duration="56635000" />
     </task>
     <task id="LOCAL-00006" summary="2021.02.15 boj">
       <created>1613329359884</created>
@@ -633,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630343584484</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="2021.08.31 KKOTest">
+      <created>1631354933621</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1631354933621</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,7 +638,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.02.24 boj" />
     <MESSAGE value="2021.02.25 boj" />
     <MESSAGE value="2021.07.13 boj" />
     <MESSAGE value="2021.07.15 boj" />
@@ -677,7 +662,8 @@
     <MESSAGE value="2021.08.28 boj" />
     <MESSAGE value="2021.08.30 boj" />
     <MESSAGE value="2021.08.31 boj" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.08.31 boj" />
+    <MESSAGE value="2021.08.31 KKOTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.08.31 KKOTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -713,6 +699,7 @@
     <SUITE FILE_PATH="coverage/algorithmStudy$TestItertools.coverage" NAME="TestItertools Coverage Results" MODIFIED="1629393926709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$TestTS5.coverage" NAME="TestTS5 Coverage Results" MODIFIED="1628926703731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main2750.coverage" NAME="Main2750 Coverage Results" MODIFIED="1630343126113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
+    <SUITE FILE_PATH="coverage/algorithmStudy$TestNX3.coverage" NAME="TestNX3 Coverage Results" MODIFIED="1631427935791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1085.coverage" NAME="Main1085 Coverage Results" MODIFIED="1627365596859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1978.coverage" NAME="Main1978 Coverage Results" MODIFIED="1614267917644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />
     <SUITE FILE_PATH="coverage/algorithmStudy$Main1929.coverage" NAME="Main1929 Coverage Results" MODIFIED="1626715758446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc" />

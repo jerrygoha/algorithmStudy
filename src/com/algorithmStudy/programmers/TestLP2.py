@@ -27,6 +27,7 @@ class Programing2 :
                     if breakBool==False:
                         break
 
+        print(self.relationsList)
         print(len(self.relationsList))
 
 if __name__ == "__main__" :
@@ -37,5 +38,6 @@ if __name__ == "__main__" :
     for i in range(n):
         relationsList.append(set(input().split()))
 
+    print(relationsList)
 
     a.unionTogether(relationsList)
