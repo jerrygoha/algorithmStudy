@@ -67,5 +67,4 @@ if __name__ == "__main__":
             resultList.append(a.checkModi(instantList))
 
     resultList.sort()
-    print(resultList)
     print(resultList[0])
