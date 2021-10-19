@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.09.21 NXTest">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main2751.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestICT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/TestJavaCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest/UntilgoOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8e4a8266-2dc2-47d6-8829-ba2a4ec53694" name="Default Changelist" comment="2021.10.18 CT Study">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest/GuildTeamBuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest/MulorSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmStudy/acmicpc/Main1018.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <recent name="D:\Programming Project\algorithmStudy\src\com\algorithmStudy\programmers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.UntilgoOne">
+  <component name="RunManager" selected="Python.MulorSum">
     <configuration name="TestJavaCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithmStudy.acmicpc.TestJavaCode" />
       <module name="algorithmStudy" />
@@ -108,22 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLP2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MulorSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/programmers/TestLP2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest/MulorSum.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -219,13 +210,14 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TestLP2" />
       <item itemvalue="Python.TestNX3" />
       <item itemvalue="Python.TestNX5" />
       <item itemvalue="Python.UntilgoOne" />
+      <item itemvalue="Python.MulorSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MulorSum" />
         <item itemvalue="Python.UntilgoOne" />
       </list>
     </recent_temporary>
@@ -286,13 +278,7 @@
       <workItem from="1632935805812" duration="1824000" />
       <workItem from="1633496596186" duration="1861000" />
       <workItem from="1634371127723" duration="3634000" />
-    </task>
-    <task id="LOCAL-00007" summary="2021.02.19 boj">
-      <created>1613674040098</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1613674040098</updated>
+      <workItem from="1634535729376" duration="8191000" />
     </task>
     <task id="LOCAL-00008" summary="2021.02.19 boj">
       <created>1613696490282</created>
@@ -630,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631432003245</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="2021.10.18 CT Study">
+      <created>1634535766756</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1634535766757</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,7 +646,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.07.13 boj" />
     <MESSAGE value="2021.07.15 boj" />
     <MESSAGE value="2021.07.16 boj" />
     <MESSAGE value="2021.07.20 boj" />
@@ -678,9 +670,11 @@
     <MESSAGE value="2021.08.31 boj" />
     <MESSAGE value="2021.08.31 KKOTest" />
     <MESSAGE value="2021.09.21 NXTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.09.21 NXTest" />
+    <MESSAGE value="2021.10.18 CT Study" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.10.18 CT Study" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithmStudy$MulorSum.coverage" NAME="MulorSum Coverage Results" MODIFIED="1634538006537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest" />
     <SUITE FILE_PATH="coverage/algorithmStudy$UntilgoOne.coverage" NAME="UntilgoOne Coverage Results" MODIFIED="1634373764123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/algorithmStudy/thisIsCodingTest" />
   </component>
 </project>
